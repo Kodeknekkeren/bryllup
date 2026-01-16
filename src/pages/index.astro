@@ -1,16 +1,32 @@
 ---
-
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title="Bryllup">
+  <h1>Velkommen til bryllupet!</h1>
+  <p class="muted">Her finner dere praktisk info om dagen.</p>
+
+  <div class="grid cols-2">
+    <div class="card">
+      <h2>Dato</h2>
+      <p><strong>Lørdag 23. august 2026</strong></p>
+      <p class="muted">Vielse kl. 14:00</p>
+    </div>
+
+    <div class="card">
+      <h2>Sted</h2>
+      <p><strong>Oslo</strong></p>
+      <p class="muted">Lokasjoner, kart og transport ligger under Praktisk.</p>
+    </div>
+  </div>
+
+  <div style="margin-top: 16px" class="card">
+    <h2>RSVP</h2>
+    <p>
+      Meld fra innen <strong>1. juli 2026</strong>:
+      <a href="https://forms.gle/..." target="_blank" rel="noreferrer"
+        >RSVP-skjema</a
+      >
+    </p>
+  </div>
+</BaseLayout>
