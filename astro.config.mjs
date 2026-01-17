@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://Kodeknekkeren.github.io",
+  site: "https://kodeknekkeren.github.io",
   base: "/bryllup",
 });
