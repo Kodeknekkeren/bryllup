@@ -5,9 +5,9 @@ layout: ../layouts/MarkdownLayout.astro
 
 # Praktisk informasjon
 
-## Anbefalninger for overnatting
+## Tips til overnatting
 
-- Telt : Velkommen til å overnatte i hagen. Frokost serveres søndag.
+- Telt : Velkommen til å overnatte i hagen. Frokost serveres søndag. Vi har telt til låns.
 - Airbnb i Hommersåk eller Sandnes
 - Hotell i Sandnes eller Stavanger
 
@@ -20,8 +20,8 @@ layout: ../layouts/MarkdownLayout.astro
 ## Toastmaster
 
 - Toastmaster er Siv Heggland.
-- Ved ønske om taletid eller andre innslag kan hun kontaktes på Messenger eller tlf: 924 30 230
+- Ved ønske om taletid eller andre innslag kan hun kontaktes på Messenger eller tlf: 924 30 230.
 
 # Barn
 
-- Barn er velkomne på vielsen, men etter kl 17:00 er det 18-års grense
+- Barn er velkomne på vielsen, men etter kl 17:00 er det kun for de voksne.

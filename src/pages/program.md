@@ -11,7 +11,7 @@ layout: ../layouts/MarkdownLayout.astro
 
 **13:30** Bryllupskake og Champagne
 
-**13:30** Hageleker og fotografering
+**13:30** Cocktail hour, hageleker og fotografering
 
 **17:00** Middag
 
