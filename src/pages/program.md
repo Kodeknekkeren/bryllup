@@ -5,7 +5,14 @@ layout: ../layouts/MarkdownLayout.astro
 
 # Program
 
-**14:00** Vielse  
-**15:30** Bobler og bilder  
-**17:30** Middag  
-**22:00** Fest
+**12:30** Velkommen
+
+**13:00** Vielse i hagen
+
+**13:30** Bryllupskake og Champagne
+
+**13:30** Hageleker og fotografering
+
+**17:00** Middag
+
+**20:00** Fest
