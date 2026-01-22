@@ -9,7 +9,7 @@ layout: ../layouts/MarkdownLayout.astro
 
 **13:00** Vielse i hagen
 
-**13:30** Bryllupskake og Champagne
+**13:30** Bryllupskake og bobler
 
 **13:30** Cocktail hour, hageleker og fotografering
 
