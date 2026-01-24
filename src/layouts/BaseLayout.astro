@@ -92,30 +92,29 @@ const { title = "Bryllup" } = Astro.props;
         gap: 14px;
       }
 
+      /* Kart-container */
       .map {
         width: 100%;
         max-width: 100%;
-        overflow: hidden;
-        border-radius: 16px;
-        margin-top: 12px;
+        overflow-x: hidden;
       }
 
-      /* iframe styrer seg selv på desktop */
+      /* Iframe */
       .map iframe {
         display: block;
-        max-width: 100%;
         width: 100%;
+        max-width: 100%;
+        min-width: 0; /* 🔑 viktig */
         border: 0;
       }
+      .grid > * {
+        min-width: 0;
+      }
 
+      /* 📱 MOBIL – TVING LAVERE KART */
       @media (max-width: 600px) {
-        .map {
-          aspect-ratio: 3 / 2;
-        }
-
         .map iframe {
-          width: 100% !important;
-          height: 100% !important;
+          height: 220px !important;
         }
       }
 
