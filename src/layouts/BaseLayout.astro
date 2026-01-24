@@ -150,6 +150,17 @@ const { title = "Bryllup" } = Astro.props;
       h3 {
         font-family: "Playfair Display", serif;
       }
+
+      @media (max-width: 375px) {
+        nav {
+          gap: 8px;
+        }
+
+        nav a {
+          padding: 5px 9px;
+          font-size: 13.5px;
+        }
+      }
     </style>
   </head>
 
