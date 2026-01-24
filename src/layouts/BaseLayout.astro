@@ -12,12 +12,14 @@ const { title = "Bryllup" } = Astro.props;
     <meta name="robots" content="noindex,nofollow" />
     <style>
       :root {
-        --max: 900px;
-        --bg: #ffffff;
-        --text: #111;
-        --muted: #666;
-        --border: #eaeaea;
+        --max: 720px;
+        --bg: #faf7f5;
+        --text: #1a1a1a;
+        --muted: #6b6b6b;
+        --border: #e6e1dc;
+        --accent: #b08968;
       }
+
       body {
         margin: 0;
         font-family:
@@ -61,8 +63,7 @@ const { title = "Bryllup" } = Astro.props;
         margin: 0 auto;
         padding: 22px 18px 64px;
       }
-      h1,
-      h2,
+
       h3 {
         line-height: 1.2;
       }
@@ -81,16 +82,43 @@ const { title = "Bryllup" } = Astro.props;
       }
       .card {
         border: 1px solid var(--border);
-        border-radius: 16px;
-        padding: 16px;
+        border-radius: 20px;
+        padding: 18px;
+        background: white;
       }
+
       .grid {
         display: grid;
         gap: 14px;
       }
+
+      .map {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+        border-radius: 12px;
+        overflow: hidden;
+      }
+
+      .map iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+      .mt {
+        margin-top: 16px;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        margin-top: 0;
+      }
+
       @media (min-width: 720px) {
-        .grid.cols-2 {
-          grid-template-columns: 1fr 1fr;
+        h1 {
+          font-size: 2.6rem;
         }
       }
     </style>
