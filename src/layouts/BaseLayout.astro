@@ -39,6 +39,10 @@ const { title = "Bryllup" } = Astro.props;
         color: var(--text);
         line-height: 1.6;
       }
+      body {
+        overflow-x: hidden;
+      }
+
       header {
         border-bottom: 1px solid var(--border);
         position: sticky;
@@ -104,14 +108,14 @@ const { title = "Bryllup" } = Astro.props;
         overflow-x: hidden;
       }
 
-      /* Iframe */
       .map iframe {
         display: block;
         width: 100%;
-        max-width: 100%;
-        min-width: 0; /* 🔑 viktig */
+        max-width: 100vw; /* 🔑 DENNE */
+        min-width: 0;
         border: 0;
       }
+
       .grid > * {
         min-width: 0;
       }
