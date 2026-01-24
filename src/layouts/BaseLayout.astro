@@ -19,6 +19,11 @@ const { title = "Bryllup" } = Astro.props;
         --border: #e6e1dc;
         --accent: #b08968;
       }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
 
       body {
         margin: 0;
