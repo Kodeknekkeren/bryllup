@@ -7,4 +7,4 @@ layout: ../layouts/MarkdownLayout.astro
 
 - Ønskeliste hos Kitchn: https://www.kitchn.no/onskeliste/251451
 - Ønsk: https://onsk.no/lister/wjd-xe7?s=660536
-- Ellers blir bidrag til bryllupsreisen tatt svært godt i mot :) Kontonr: 3207 31 86519
+- Ellers blir bidrag til bryllupsreisen svært godt tatt i mot :) Kontonr: 3207 31 86519

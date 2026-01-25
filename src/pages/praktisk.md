@@ -17,13 +17,13 @@ layout: ../layouts/MarkdownLayout.astro
 ## Transport / parkering
 
 - Parkering på eiendommen; første mann til mølla
-- Turparkering i krysset hundre meter fra hytta kan benyttes
+- Turparkering i krysset hundre meter før hytta kan benyttes
 - Taxi: 07000 eller Uber
 - Det går hurtigbåt mellom Stavanger sentrum og Hommersåk kai
 
 ## Toastmaster
 
-- Toastmaster er Siv Heggland.
+- Toastmaster er Siv Heggland
 - Alle taler og innslag skal gå gjennom henne, hun kan kontaktes på Messenger eller tlf: 924 30 230
 
 ## Mat og drikke
@@ -32,13 +32,14 @@ layout: ../layouts/MarkdownLayout.astro
 - Til middag serveres grillbuffet etterfulgt av dessertbord
 - Drikke med og uten alkohol serveres umiddelbart etter vielsen og hele resten av dagen
 - Gi beskjed i god tid om eventuelle matallergier, så vi får gitt beskjed til matleverandørene
+- Enkel nattmat
 
 ## Sko og bekledning
 
 - Vi har et sterkt ønske om at vielsen skal foregå utendørs, så vær forberedt på dette
-- Ved dårlig vær flyttes resten av feiringen inn i teltet
-- Det legges gulv i teltet
+- Ved fint vær foregår bryllupet utendørs frem til middag
+- Området har gressplen, men det er gulv i teltet
 
 # Barn
 
-- Barn er velkomne på vielsen, men etter kl 17:00 er det kun for de voksne.
+- Barn er velkomne på vielsen, men etter kl 17:00 er det kun for de voksne
